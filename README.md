@@ -24,4 +24,4 @@ Create STM32 Project in STM32CubeIDE, choose your MCU, Targeted project type to 
 I used PC0-3 as input for the buttons
 PC4-7 were used for LEDs
 
-**Below is the video of the game:**
+**Below is the video of the game:**(work in progress)
