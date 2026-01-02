@@ -14,6 +14,7 @@ Used delay is primitive and it blocks the CPU, but is appropriate for this proje
 
 **How to make:**
 If you have STM32F401RE Nucleo, you should just import the project files, connect the LEDs with resistors, and buttons and it should work.
+
 **If you want to use another STM32 MCU:**
 Create STM32 Project in STM32CubeIDE, choose your MCU, Targeted project type to empty. Then you need to download and include the chip_headers folders for the MCU, for example here is a library for F401 which I used: https://github.com/nmanhas2/LIBRARIES_STM32F401
 
