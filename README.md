@@ -1,4 +1,6 @@
 # STM32_BareMetal_SimonSays
+Project Type: Portfolio
+
 Game of Simon Says made on STM32F401RE Nucleo Board.
 It generates the sequence to repeat, uses 4 LEDs for signaling and 4 buttons to control.
 
