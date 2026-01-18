@@ -1,6 +1,10 @@
 # STM32_BareMetal_SimonSays
 
-## Project Type: Portfolio
+## Project Type: 
+Portfolio
+
+## Status
+Completed, may tweak the functions in the future
 
 # Description
 Game of Simon Says made on STM32F401RE Nucleo Board.
