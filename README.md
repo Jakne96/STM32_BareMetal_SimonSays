@@ -34,5 +34,5 @@ PC4-7 were used for LEDs
 
 ## Demo
 Demo shows two levels of the game, when they are finished, the game is completed and it starts again. On the second loop I make a mistake on purpose to show the signal for loss detection.
+https://youtu.be/RF66cqvI72s?si=wEPeejbwrch9-2-5
 
-[<iframe width="560" height="315" src="https://www.youtube.com/embed/RF66cqvI72s?si=4aKO-q7fzw5yH35t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>](https://youtu.be/RF66cqvI72s?si=APWVzU9Be8HAGr8o)
