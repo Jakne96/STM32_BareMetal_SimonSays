@@ -33,5 +33,6 @@ I used PC0-3 as input for the buttons
 PC4-7 were used for LEDs
 
 ## Demo
-Demo shows two levels of the game, when they are finished, the game is completed and it starts again. On the second loop I make a mistake on purpose to show the signal for loss detection. 
-https://youtu.be/RF66cqvI72s
+Demo shows two levels of the game, when they are finished, the game is completed and it starts again. On the second loop I make a mistake on purpose to show the signal for loss detection.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RF66cqvI72s?si=pte9gN7lZKF8MYfy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
