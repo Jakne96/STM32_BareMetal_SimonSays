@@ -32,4 +32,5 @@ Create STM32 Project in STM32CubeIDE, choose your MCU, Targeted project type to 
 I used PC0-3 as input for the buttons
 PC4-7 were used for LEDs
 
-## Demo (work in progress)
+## Demo
+Demo shows two levels of the game, when they are finished, the game is completed and it starts again. On the second loop I make a mistake on purpose to show the signal for loss detection. 
